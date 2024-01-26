@@ -1,0 +1,26 @@
+.container {
+    background: rgba(
+      255,
+      255,
+      255,
+      0.655
+    ); 
+    border-radius: 15px; /* Rounded corners */
+    padding: 30px;
+    text-align: center;
+  }
+
+  /* Center the container vertically and horizontally */
+  body {
+    font-family: 'Arial', sans-serif;
+    /* background:linear-gradient(to bottom, rgb(253, 159, 175),rgb(255, 199, 167),rgb(255, 244, 172)); */
+    background-image: url('backgroundimage.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensure full viewport height */
+    
+  }

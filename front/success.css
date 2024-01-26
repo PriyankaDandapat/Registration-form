@@ -1,0 +1,26 @@
+.container {
+    background: #ffffff98; 
+    border: 0.5vh solid rgb(255, 255, 255);
+    border-radius: 5%;
+    box-shadow: 1vh 1vh 1vh rgba(0, 0, 0, 0.273);
+    border-radius:15px; 
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  body {
+    font-family: 'Arial', sans-serif;
+    /* background:linear-gradient(to bottom, rgb(253, 159, 175),rgb(255, 199, 167),rgb(255, 244, 172)); */
+    background-image: url('backgroundimage.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    
+  }
