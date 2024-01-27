@@ -7,6 +7,7 @@ Purpose of the Project: This registration form allows users to input their infor
 
 Screenshots explaining the functionalities of this project:-
 1)Click on the URL , it will direct you to the sign up page . Fill in your details.
+
 !(screenshots/signup.png)
 
 
